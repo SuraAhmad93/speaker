@@ -1,0 +1,34 @@
+.text-right{
+	text-align: right;
+}
+.social-links{
+	color: #fff;
+}
+.social-links:hover{
+	/*color: #00aced;*/
+	color: #fff;
+}
+.logos img{
+	display: inline-block;
+	padding-right: 15px;
+}
+.last-icon{
+	padding-right: 0;
+}
+.navbar-event .navbar-nav li a {
+	padding: 0 15px;
+}
+.navbar-event .dropdown .dropdown-menu {
+	width: 250px;
+}
+@media(max-width:767px) {
+	.navbar-brand{
+		display: inline-block !important;
+	}
+	.slicknav_nav{
+		margin-top: 95px;
+	}
+	.time-count{
+		margin-left: 8%;
+	}
+}
